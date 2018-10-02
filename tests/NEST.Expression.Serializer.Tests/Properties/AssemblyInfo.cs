@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Nest.Bridge.Extensions")]
+[assembly: AssemblyTitle("NEST.Expression.Serializer.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Nest.Bridge.Extensions")]
+[assembly: AssemblyProduct("NEST.Expression.Serializer.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("29941d3a-a4e8-4b66-aaa6-ca2906af7224")]
+[assembly: Guid("d2182138-b061-4d8e-ad86-11d6f78593ab")]
 
 // Version information for an assembly consists of the following four values:
 //
